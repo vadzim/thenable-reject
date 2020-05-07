@@ -1,7 +1,7 @@
 {
   "name": "thenable-reject",
   "description": "It's like `Promise.reject` except it doesn't bother you with `unhandled Promise rejection` error in case you need to postpone a bit handling that rejection.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vadzim/thenable-reject.git"
